@@ -1,0 +1,219 @@
+    1  git
+    2  git fetch
+    3  clone
+    4  exit
+    5  git init
+    6  mkdir Project
+    7  git init
+    8  git branch source
+    9  git branch
+   10  code .
+   11  code 
+   12  ls
+   13  cd Project
+   14  git init
+   15  code .
+   16  code pro.html
+   17  code 
+   18  git config --global user.name "Pro Coding"
+   19  git config --global user.email "pranav5goud@gmail.com"
+   20  git add file1.txt
+   21  help
+   22  mkdir file1.txt
+   23  git add file1.txt
+   24  git commit -m"My First Commit"
+   25  git config --global core.editor "'C:\Program Files\Sublime Text 3\sublime_text.exe' -multiInst -nosession"
+   26  git config --global core.editor "'C:\Program Files\Sublime Text 3\sublime_text.exe' -multiInst -nosession"
+   27  git config --list
+   28  git config user.name
+   29  git config user.email
+   30  ls
+   31  mkdir Sample1.html
+   32  ls
+   33  git add License
+   34  git add LICENSE
+   35  git add Sample1.html
+   36  git add LICENSE
+   37  git commit -m 'initial project version'
+   38  git status
+   39  echo 'Project' > README
+   40  git status
+   41  git add README
+   42  git status
+   43  git status
+   44  git add CONTRIBUTING.md
+   45  mkdir CONTRIBUTING.md
+   46  git add CONTRIBUTING.md
+   47  git status
+   48  ls
+   49  sublime
+   50  sublime_text.exe
+   51  vim CONTRIBUTING.md/
+   52  git config user.name
+   53  git config user.email
+   54  git status
+   55  git init
+   56  cd Project
+   57  wd
+   58  pwd
+   59  cd C:
+   60  ls
+   61  cd Program Files
+   62  cd 'Program Files'
+   63  ls
+   64  cd Git
+   65  ls
+   66  history
+   67  cd Project
+   68  mkdir Project
+   69  sudo mkdir Project
+   70  git add Project
+   71  git log
+   72  git log -p
+   73  git init\
+   74  git init
+   75  git init
+   76  cd Project
+   77  ls
+   78  Sample1.html/
+   79  rmdir Sample1.html/
+   80  ls
+   81  rmdir file1.txt/
+   82  ls
+   83  rmdir CONTRIBUTING.md/
+   84  ls
+   85  git add Website.html
+   86  touch Website.html
+   87  ls
+   88  pwd
+   89  ls
+   90  commit
+   91  man commit
+   92  man git
+   93  man
+   94  help
+   95  git clone "https://github.com/pranavswaroopgundla/beginners_Perl"
+   96  git clone "git@github.com:pranavswaroopgundla/beginners_Perl.git"
+   97  git clone "https://github.com/gx1storm/beginners_Perl.git"
+   98  ls
+   99  cd beginners_Perl/
+  100  ls
+  101  ls
+  102  README.md
+  103  vim README.md
+  104  cd ..
+  105  ls
+  106  git branch SampleHTML
+  107  git branch -help
+  108  git commit
+  109  commit
+  110  git branch commit
+  111  pwd
+  112  clear
+  113  open .
+  114  cd /d/TEST
+  115  pwd
+  116  ls
+  117  ls -all
+  118  cd /c/Users/pannu
+  119  ls
+  120  cd Project/
+  121  la
+  122  ls
+  123  cd beginners_Perl/
+  124  ls
+  125  clear
+  126  git
+  127  git help tutorial
+  128  man git-log
+  129  git help log
+  130  clear
+  131  git clone "https://github.com/pranavswaroopgundla/beginners_Perl"
+  132  git clone "https://github.com/pranavswaroopgundla/beginners_Perl"
+  133  git clone "git@github.com:pranavswaroopgundla/beginners_Perl.git"
+  134  git clone "https://github.com/pranavswaroopgundla/beginners_Perl.git"
+  135  ls
+  136  rmdir beginners_Perl/
+  137  rmdir -rf beginners_Perl/
+  138  rmdir -r beginners_Perl/
+  139  rmdir --help
+  140  rmdir --ignore-fail-on-non-empty beginners_Perl/
+  141  ls
+  142  rmdir -p beginners_Perl/
+  143  rm -p beginners_Perl/
+  144  rm -r beginners_Perl/
+  145  git status
+  146  git commit 
+  147  mkdir new
+  148  ls
+  149  git commit 
+  150  git commit new
+  151  git config --global user.name "pranavswaroopgundla"
+  152  git config --global user.email "pranav5goud2gmail.com"
+  153  git config --global user.email "pranav5goud@gmail.com"
+  154  git commit new
+  155  git commit 
+  156  clear
+  157  git status
+  158  git add new
+  159  git commit
+  160  ls
+  161  git status
+  162  git add beginners_Perl/
+  163  git commit
+  164  git commit -a -m "Adding a ne sample from my PC"
+  165  clear
+  166  git commit -a -m "Adding a ne sample from my PC"
+  167  git log
+  168  git status
+  169  clear
+  170  git push
+  171  git push
+  172  git remote
+  173  git remote -v 
+  174  git push origin
+  175  git push origin master
+  176  git push origin master
+  177  git config --global user.name "pranavswaroopgundla"
+  178  git config --global user.email "pranav5goud@gmail.com"
+  179  git push origin master
+  180  git remote -v 
+  181  git remote -v 
+  182  git clone "https://github.com/pranavswaroopgundla/beginners_Perls.git"
+  183  git config --global user.name "pranavswaroopgundla"
+  184  git config --global user.email "pranav5goud@gmail.com"
+  185  git remote -v 
+  186  git origin
+  187  git push origin
+  188  clear
+  189  git config --bool core.bare true
+  190  git push origin
+  191  cd ..
+  192  mv beginners_Perl/ repo.old
+  193  git colne --bare repo.old beginners_Perl/
+  194  git clone --bare repo.old beginners_Perl/
+  195  git pusg origin master:master+machine2
+  196  git push origin master:master+machine2
+  197  git checkout --detach
+  198  ls
+  199  cd repo.old/
+  200  ls
+  201  cd beginners_Perls/
+  202  ls
+  203  git push origin
+  204  git push origin master
+  205  touch testing.txt
+  206  echo "this is a test file" > testing.txt
+  207  ls
+  208  vim testing.txt 
+  209  git push origin master
+  210  git push
+  211  git push origin master
+  212  git status
+  213  git add testing.txt
+  214  git status
+  215  git commit -a -m "Adding a new sample from my PC"
+  216  git status
+  217* 
+  218  history
+  219  history > Test.txt
